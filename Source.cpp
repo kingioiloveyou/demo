@@ -174,7 +174,7 @@ int main()
 
 	} while (luachon != 6);
 
-	
+	cout<<"xin chao anh em";
 	// TreeNode *A =T, *B, *C, *D, *E, *F, *G, *H, *I, *J, *K, *L, *M, *N, *P, *Q; 
 	// B = addchild(A, 'B'); 
 	// C = addsibling(B, 'C'); 
